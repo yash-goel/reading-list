@@ -2,7 +2,6 @@
 
 ## Courses/ Seminars/ Workshops
 Math for Intelligent Systems: Marc Toussaint - https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/16-Maths/paper.pdf
-
 Aritificial Intelligence: University of Queensland - http://robotics.itee.uq.edu.au/~ai/doku.php/wiki/home
 
 Statistical Reinforcement Learning: UIUC - https://nanjiang.cs.illinois.edu/cs598/
