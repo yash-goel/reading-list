@@ -19,6 +19,8 @@
 13. Representation Learning in Computer Vision: Stanford - http://web.stanford.edu/class/cs331b/
 14. Memory of Motion:IDIAP - https://memmows.sciencesconf.org/resource/page/id/7
 15. From Least Squares Regression to High-dimensional Motion Primitives: IROS'18 - https://www.idiap.ch/project/iros2018-tutorial/
+16. Advanced Robotics: UBerkeley - https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/
+17. Intro to AI: UBerkeley - http://ai.berkeley.edu/lecture_videos.html
 
 ## People
 1. Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
@@ -50,4 +52,5 @@
 
 ## Non - Classified
 Robotics, Vision and Control: Seville - https://grvc.us.es/
+https://citris-uc.org/initiatives/robotics-2/
 
