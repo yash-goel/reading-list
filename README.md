@@ -21,6 +21,7 @@
 15. From Least Squares Regression to High-dimensional Motion Primitives: IROS'18 - https://www.idiap.ch/project/iros2018-tutorial/
 16. Advanced Robotics: UBerkeley - https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/
 17. Intro to AI: UBerkeley - http://ai.berkeley.edu/lecture_videos.html
+18. Graduate Artificial Intelligence:CMU - http://www.cs.cmu.edu/~15780/
 
 ## People
 1. Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
@@ -45,6 +46,10 @@
 6. Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation - https://arxiv.org/pdf/1709.10489.pdf
 7. An Efficient Reachability-Based Framework for Provably Safe Autonomous Navigation in Unknown Environments - https://arxiv.org/pdf/1905.00532.pdf
 8. Probabilistic Recurrent State-Space Models - https://arxiv.org/pdf/1801.10395.pdf
+
+## Robotics Papers
+1. Visual-Inertial Direct SLAM - http://webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf
+2. 
 
 ## Random Read
 1. FASTrack: Real-Time Planning - http://sylviaherbert.com/fastrack
