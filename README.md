@@ -22,6 +22,7 @@
 16. Advanced Robotics: UBerkeley - https://people.eecs.berkeley.edu/~pabbeel/cs287-fa15/
 17. Intro to AI: UBerkeley - http://ai.berkeley.edu/lecture_videos.html
 18. Graduate Artificial Intelligence:CMU - http://www.cs.cmu.edu/~15780/
+19. Sensing and Estimation in Robotics:UCSD - https://natanaso.github.io/ece276a/index.html
 
 ## People
 1. Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
