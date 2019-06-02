@@ -2,20 +2,33 @@
 
 ## Courses/ Seminars/ Workshops
 Math for Intelligent Systems: Marc Toussaint - https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/16-Maths/paper.pdf
-\\
+
 Aritificial Intelligence: University of Queensland - http://robotics.itee.uq.edu.au/~ai/doku.php/wiki/home
+
 Statistical Reinforcement Learning: UIUC - https://nanjiang.cs.illinois.edu/cs598/
+
 Learning from Demonstrations: RSS'15 - https://sites.google.com/site/lfdiocrss15/program
+
 Optimization Perspectives on Learning to Control: ICML'18 - https://people.eecs.berkeley.edu/~brecht/l2c-icml2018/
+
 Deep RL Bootcamp - https://sites.google.com/view/deep-rl-bootcamp/lectures
+
 Deep RL Workshop: NeurIPS'18 - https://sites.google.com/view/deep-rl-workshop-nips-2018/home
+
 Infer2Control: NeurIPS'18 - https://sites.google.com/view/infer2control-nips2018/home?authuser=0
+
 Intro to Neural Networks and Machine Learning: UoT - http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/
+
 Probabilistic Learning and Reasoning: UoT - http://www.cs.toronto.edu/~jessebett/CSC412/
+
 Visual Perception for Autonomous Driving: UoT - http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html
+
 Robot Learning: NIPS'17 - https://sites.google.com/view/nips17robotlearning/program?authuser=0
+
 Representation Learning in Computer Vision: Stanford - http://web.stanford.edu/class/cs331b/
+
 Memory of Motion:IDIAP - https://memmows.sciencesconf.org/resource/page/id/7
+
 From Least Squares Regression to High-dimensional Motion Primitives: IROS'18 - https://www.idiap.ch/project/iros2018-tutorial/
 
 ## People
