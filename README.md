@@ -1,5 +1,8 @@
 # reading-list
 
+## Books/ Extensive Reads
+1. An Algorithmic Perspective on Imitation Learning - https://arxiv.org/pdf/1811.06711.pdf
+
 ## Courses/ Seminars/ Workshops
 1. Math for Intelligent Systems: Marc Toussaint - https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/16-Maths/paper.pdf
 2. Aritificial Intelligence: University of Queensland - http://robotics.itee.uq.edu.au/~ai/doku.php/wiki/home
@@ -18,12 +21,13 @@
 15. From Least Squares Regression to High-dimensional Motion Primitives: IROS'18 - https://www.idiap.ch/project/iros2018-tutorial/
 
 ## People
-### Learning
-Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
-Marc Toussaint - https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/index.html - Probability, Optimization & Learning
-Nan Jiang - https://nanjiang.cs.illinois.edu/ - Reinforcement Learning
-George Konidaris - https://cs.brown.edu/~gdk/ - Robot Learning
-Sylvain Calinon - http://calinon.ch/index.htm - Robot Learning & Human-Robot Interaction
+1. Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
+2. Marc Toussaint - https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/index.html - Probability, Optimization & Learning
+3. Nan Jiang - https://nanjiang.cs.illinois.edu/ - Reinforcement Learning
+4. George Konidaris - https://cs.brown.edu/~gdk/ - Robot Learning
+5. Sylvain Calinon - http://calinon.ch/index.htm - Robot Learning & Human-Robot Interaction
+6. Subramanian Ramamoorthy - http://homepages.inf.ed.ac.uk/sramamoo/
+7. Katharina Muelling - https://sites.google.com/site/katharinamuelling/overview
 
 ## Learning Related Groups/ Projects/ Collaboration
 1. STRANDS Project - http://strands.acin.tuwien.ac.at/committee.html
@@ -36,8 +40,14 @@ Sylvain Calinon - http://calinon.ch/index.htm - Robot Learning & Human-Robot Int
 3. Towards Learning Abstract Representations for Locomotion Planning in High-dimensional State Space - https://arxiv.org/pdf/1903.02308.pdf
 4. Key Papers in Deep RL - https://spinningup.openai.com/en/latest/spinningup/keypapers.html
 5. Learning Transferable Policies for Monocular Reactive MAV Control - https://arxiv.org/pdf/1608.00627.pdf
+6. Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation - https://arxiv.org/pdf/1709.10489.pdf
+7. An Efficient Reachability-Based Framework for Provably Safe Autonomous Navigation in Unknown Environments - https://arxiv.org/pdf/1905.00532.pdf
+8. Probabilistic Recurrent State-Space Models - https://arxiv.org/pdf/1801.10395.pdf
 
 ## Random Read
 1. FASTrack: Real-Time Planning - http://sylviaherbert.com/fastrack
 2. Efficient Multi-Task Deep RL - https://www.youtube.com/watch?v=TfhV51cndPY
+
+## Non - Classified
+Robotics, Vision and Control: Seville - https://grvc.us.es/
 
