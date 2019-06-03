@@ -24,6 +24,10 @@
 18. Graduate Artificial Intelligence:CMU - http://www.cs.cmu.edu/~15780/
 19. Sensing and Estimation in Robotics:UCSD - https://natanaso.github.io/ece276a/index.html
 20. Matrix Methods in Data Analysis, Signal Processing, and Machine Learning: MIT - http://www-math.mit.edu/~gs/
+21. Intelligent control through learning and optimization: UWash - https://homes.cs.washington.edu/~todorov/courses/amath579/index.html
+22. Deep Reinforcement Learning and Control:CMU - https://katefvision.github.io/
+
+
 
 ## People
 1. Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
@@ -33,6 +37,7 @@
 5. Sylvain Calinon - http://calinon.ch/index.htm - Robot Learning & Human-Robot Interaction
 6. Subramanian Ramamoorthy - http://homepages.inf.ed.ac.uk/sramamoo/
 7. Katharina Muelling - https://sites.google.com/site/katharinamuelling/overview
+8. Katerina Fragkiadaki - https://www.cs.cmu.edu/~katef/
 
 ## Learning Related Groups/ Projects/ Collaboration
 1. STRANDS Project - http://strands.acin.tuwien.ac.at/committee.html
