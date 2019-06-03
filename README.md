@@ -26,9 +26,14 @@
 20. Matrix Methods in Data Analysis, Signal Processing, and Machine Learning: MIT - http://www-math.mit.edu/~gs/
 21. Intelligent control through learning and optimization: UWash - https://homes.cs.washington.edu/~todorov/courses/amath579/index.html
 22. Deep Reinforcement Learning and Control:CMU - https://katefvision.github.io/
-
-
-
+23. Computer Vision: Gatech - https://www.cc.gatech.edu/~hays/compvision/
+24. Vision Algorithms for Mobile Robotics: UoZurich - http://rpg.ifi.uzh.ch/teaching.html
+25. Probabilistic Graphical Models: Stanford - https://ermongroup.github.io/cs228/
+26. Algorithmic Robotics: UMich - http://web.eecs.umich.edu/~dmitryb/courses/fall2018iar/index.html
+27. Robotics: UWash - https://courses.cs.washington.edu/courses/cse571/16au/
+28. Mobile Robotics: Freiburg - http://ais.informatik.uni-freiburg.de/teaching/ss17/robotics/
+29. Stochastic Control: Stanford - https://stanford.edu/class/ee365/index.html
+30. Probabilistic Learning and Reasoning: UoT - http://www.cs.toronto.edu/~jessebett/CSC412/
 ## People
 1. Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
 2. Marc Toussaint - https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/index.html - Probability, Optimization & Learning
@@ -61,6 +66,7 @@
 ## Random Read
 1. FASTrack: Real-Time Planning - http://sylviaherbert.com/fastrack
 2. Efficient Multi-Task Deep RL - https://www.youtube.com/watch?v=TfhV51cndPY
+3. Learning for Dynamics and Control - https://l4dc.mit.edu/
 
 ## Non - Classified
 Robotics, Vision and Control: Seville - https://grvc.us.es/
