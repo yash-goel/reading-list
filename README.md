@@ -75,6 +75,8 @@
 2. Efficient Path Planning in Belief Space for Safe Navigation - http://www.ipb.uni-bonn.de/pdfs/schirmer17iros.pdf
 3. Probabilistic navigation in dynamic environment using RRT & GP - https://hal.inria.fr/inria-00332595/document
 4. Probabilistic Feasibility for Nonlinear Systems with Non-Gaussian Uncertainty using RRT - http://acl.mit.edu/papers/Luders11_Infotech.pdf
+5. Fast Robot Motion Planning with Collision Avoidance and Temporal Optimization ~ The Convex Feasible Set Algo
+in Motion Planning - https://arxiv.org/pdf/1709.00627.pdf
 
 
 ## Random Read
