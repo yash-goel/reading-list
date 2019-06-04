@@ -60,9 +60,17 @@
 7. An Efficient Reachability-Based Framework for Provably Safe Autonomous Navigation in Unknown Environments - https://arxiv.org/pdf/1905.00532.pdf
 8. Probabilistic Recurrent State-Space Models - https://arxiv.org/pdf/1801.10395.pdf
 
-## Robotics Papers
+## Robotic Vision Papers
 1. Visual-Inertial Direct SLAM - http://webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf
-2. 
+2. Dense 3-D Mapping with Spatial Correlation via Gaussian Filtering - https://arxiv.org/pdf/1801.07380.pdf
+3. Probabilistic Data Association for Semantic SLAM - https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf
+
+## Planning Papers
+1. Motion Planning under Uncertainty using Iterative Local Optimization in Belief Space - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6750&rep=rep1&type=pdf
+2. Efficient Path Planning in Belief Space for Safe Navigation - http://www.ipb.uni-bonn.de/pdfs/schirmer17iros.pdf
+3. Probabilistic navigation in dynamic environment using RRT & GP - https://hal.inria.fr/inria-00332595/document
+4. Probabilistic Feasibility for Nonlinear Systems with Non-Gaussian Uncertainty using RRT - http://acl.mit.edu/papers/Luders11_Infotech.pdf
+
 
 ## Random Read
 1. FASTrack: Real-Time Planning - http://sylviaherbert.com/fastrack
