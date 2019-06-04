@@ -59,11 +59,16 @@
 6. Self-supervised Deep Reinforcement Learning with Generalized Computation Graphs for Robot Navigation - https://arxiv.org/pdf/1709.10489.pdf
 7. An Efficient Reachability-Based Framework for Provably Safe Autonomous Navigation in Unknown Environments - https://arxiv.org/pdf/1905.00532.pdf
 8. Probabilistic Recurrent State-Space Models - https://arxiv.org/pdf/1801.10395.pdf
+9. Learning Physical Collaborative Robot Behaviors from Human Demonstrations - http://www.iri.upc.edu/files/scidoc/1758-Learning-Physical-Collaborative-Robot-Behaviors-from-Human-Demonstrations.pdf
+10. A Generalized Path Integral Control Approach to Reinforcement Learning - http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf
+
 
 ## Robotic Vision Papers
 1. Visual-Inertial Direct SLAM - http://webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf
 2. Dense 3-D Mapping with Spatial Correlation via Gaussian Filtering - https://arxiv.org/pdf/1801.07380.pdf
 3. Probabilistic Data Association for Semantic SLAM - https://www.cis.upenn.edu/~kostas/mypub.dir/bowman17icra.pdf
+4. Efficient Surfel-Based SLAM using 3D Laser Range Data in Urban Environments - http://www.roboticsproceedings.org/rss14/p16.pdf
+5. 
 
 ## Planning Papers
 1. Motion Planning under Uncertainty using Iterative Local Optimization in Belief Space - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6750&rep=rep1&type=pdf
