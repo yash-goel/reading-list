@@ -63,6 +63,8 @@
 8. Probabilistic Recurrent State-Space Models - https://arxiv.org/pdf/1801.10395.pdf
 9. Learning Physical Collaborative Robot Behaviors from Human Demonstrations - http://www.iri.upc.edu/files/scidoc/1758-Learning-Physical-Collaborative-Robot-Behaviors-from-Human-Demonstrations.pdf
 10. A Generalized Path Integral Control Approach to Reinforcement Learning - http://www.jmlr.org/papers/volume11/theodorou10a/theodorou10a.pdf
+11. Gaussian Processes for Data-Efficient Learning in Robotics and Control - https://www.doc.ic.ac.uk/~mpd37/publications/pami_final_w_appendix.pdf
+
 
 
 ## Robotic Vision Papers
