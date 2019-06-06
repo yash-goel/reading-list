@@ -5,6 +5,7 @@
 2. Factor Graphs for Robot Perception - http://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.pdf
 3. Introduction to Topology and Modern Analysis
 4. Optimization Algorithms on Matrix Manifolds - http://www.eeci-institute.eu/GSC2011/Photos-EECI/EECI-GSC-2011-M5/book_AMS.pdf
+5. Predictive Uncertainty Quantification with Compound Density Networks - https://wiseodd.github.io/files/cdn_master_thesis.pdf
 
 ## Courses/ Seminars/ Workshops
 1. Math for Intelligent Systems: Marc Toussaint - https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/16-Maths/paper.pdf
