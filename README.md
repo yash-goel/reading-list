@@ -54,6 +54,9 @@
 32. Gaussian Process Summer Schools: Multiple Years - http://gpss.cc/past_meetings.html
 33. Machine Learning in Robot Motion Planning - https://personalrobotics.cs.washington.edu/workshops/mlmp2018/
 34. Statistical Learning Theory and Applications: MIT - http://www.mit.edu/~9.520/fall18/
+35. Learning and Sequential Decision Making: Brown - http://cs.brown.edu/courses/cs2951f/
+36. 
+
 
 ## People
 1. Cédric Archambeau - http://www0.cs.ucl.ac.uk/staff/c.archambeau/ - Interesting Probabilistic Material/ Courses
@@ -96,7 +99,14 @@
 22. Online Evolution of Deep Convolutional Network for Vision-Based Reinforcement Learning - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.636.6995&rep=rep1&type=pdf
 23. End-to-End Deep Reinforcement Learning for Lane Keeping Assist - https://arxiv.org/pdf/1612.04340.pdf
 24. PLATO: Policy Learning using Adaptive Trajectory Optimization - https://arxiv.org/pdf/1603.00622.pdf
-25. 
+25. Goal-Driven Dynamics Learning via Bayesian Optimization - https://arxiv.org/pdf/1703.09260.pdf
+26. Safely Probabilistically Complete Real-Time Planning and Exploration in Unknown Environments - https://arxiv.org/pdf/1811.07834.pdf
+27. Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning - http://web.eecs.umich.edu/~baveja/Papers/task-generalization.pdf
+28. MPC-Inspired Neural Network Policies for Sequential Decision Making - https://arxiv.org/pdf/1802.05803.pdf
+29. Imitation Learning for Agile Autonomous Driving - https://arxiv.org/pdf/1709.07174.pdf
+30. Safe end-to-end imitation learning for model predictive control - https://arxiv.org/pdf/1803.10231.pdf
+
+
 
 ## Robotic Vision/ SLAM Papers
 1. Visual-Inertial Direct SLAM - http://webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf
@@ -113,7 +123,9 @@
 12. VINS-Mono - https://arxiv.org/pdf/1708.03852.pdf
 13. Square Root SAM - https://www.cc.gatech.edu/~dellaert/pub/Dellaert06ijrr.pdf
 14. Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization - https://arxiv.org/pdf/1809.01019.pdf
-
+15. SegMap: 3D Segment Mapping - https://arxiv.org/pdf/1804.09557v1.pdf
+16. Moving Obstacle Detection in Highly Dynamic Scenes - https://europa.informatik.uni-freiburg.de/files/ess-movingobstacledetection-icra09.pdf - https://www.vision.rwth-aachen.de/media/papers/ess08cvpr.pdf
+17. 
 
 ## Planning Papers
 1. Motion Planning under Uncertainty using Iterative Local Optimization in Belief Space - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6750&rep=rep1&type=pdf
