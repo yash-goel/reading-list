@@ -105,7 +105,9 @@
 28. MPC-Inspired Neural Network Policies for Sequential Decision Making - https://arxiv.org/pdf/1802.05803.pdf
 29. Imitation Learning for Agile Autonomous Driving - https://arxiv.org/pdf/1709.07174.pdf
 30. Safe end-to-end imitation learning for model predictive control - https://arxiv.org/pdf/1803.10231.pdf
-
+31. Unsupervised Visuomotor Control through Distributional Planning Networks - https://arxiv.org/pdf/1902.05542.pdf
+32. Deep-MPC - https://cs.stanford.edu/people/asaxena/papers/deepmpc_rss2015.pdf
+33. Learning Deep Control Policies for Autonomous Aerial Vehicles with MPC-Guided Policy Search - https://arxiv.org/pdf/1509.06791.pdf
 
 
 ## Robotic Vision/ SLAM Papers
@@ -125,7 +127,8 @@
 14. Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization - https://arxiv.org/pdf/1809.01019.pdf
 15. SegMap: 3D Segment Mapping - https://arxiv.org/pdf/1804.09557v1.pdf
 16. Moving Obstacle Detection in Highly Dynamic Scenes - https://europa.informatik.uni-freiburg.de/files/ess-movingobstacledetection-icra09.pdf - https://www.vision.rwth-aachen.de/media/papers/ess08cvpr.pdf
-17. 
+17. A Probabilistic Framework for Real-time 3D Segmentation using Spatial, Temporal, and Semantic Cues - http://www.roboticsproceedings.org/rss12/p24.pdf
+18. Estimating Metric Poses of Dynamic Objects Using Monocular Visual-Inertial Fusion - https://arxiv.org/pdf/1808.06753.pdf
 
 ## Planning Papers
 1. Motion Planning under Uncertainty using Iterative Local Optimization in Belief Space - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.307.6750&rep=rep1&type=pdf
