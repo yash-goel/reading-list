@@ -55,7 +55,7 @@
 33. Machine Learning in Robot Motion Planning - https://personalrobotics.cs.washington.edu/workshops/mlmp2018/
 34. Statistical Learning Theory and Applications: MIT - http://www.mit.edu/~9.520/fall18/
 35. Learning and Sequential Decision Making: Brown - http://cs.brown.edu/courses/cs2951f/
-36. 
+36. Reinforcement Learning: Stanford - http://web.stanford.edu/class/cs234/index.html
 
 
 ## People
