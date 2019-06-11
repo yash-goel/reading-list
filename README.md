@@ -108,7 +108,7 @@
 31. Unsupervised Visuomotor Control through Distributional Planning Networks - https://arxiv.org/pdf/1902.05542.pdf
 32. Deep-MPC - https://cs.stanford.edu/people/asaxena/papers/deepmpc_rss2015.pdf
 33. Learning Deep Control Policies for Autonomous Aerial Vehicles with MPC-Guided Policy Search - https://arxiv.org/pdf/1509.06791.pdf
-
+34. Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning - https://arxiv.org/pdf/1810.08647.pdf
 
 ## Robotic Vision/ SLAM Papers
 1. Visual-Inertial Direct SLAM - http://webdiis.unizar.es/~jcivera/papers/concha_etal_icra16.pdf
