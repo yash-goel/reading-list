@@ -68,6 +68,9 @@
 7. Katharina Muelling - https://sites.google.com/site/katharinamuelling/overview
 8. Katerina Fragkiadaki - https://www.cs.cmu.edu/~katef/
 9. Honglak Lee - http://web.eecs.umich.edu/~honglak/
+10. Natalia Díaz Rodríguez - https://nataliadiaz.github.io/
+11. Roberto Calandra - https://www.robertocalandra.com/about/
+12. Marcello Restelli - http://home.deib.polimi.it/restelli/MyWebSite/index.shtml
 
 ## Learning Related Groups/ Projects/ Collaboration
 1. STRANDS Project - http://strands.acin.tuwien.ac.at/committee.html
