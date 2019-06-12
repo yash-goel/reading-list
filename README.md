@@ -16,6 +16,7 @@
 13. Robust Methods for Accurate and Efficient 3D Modeling from Unstructured Imagery
 14. Visual Inertial Odometry and Active Dense Reconstruction for Mobile Robots - https://www.zora.uzh.ch/id/eprint/129478/1/thesis.pdf
 15. Learning Probabilistic Models for Mobile Robot Navigation - http://www2.informatik.uni-freiburg.de/~kretzsch/pdf/kretzschmar14phd.pdf
+16. Efficient Reinforcement Learning with Gaussian Processes
 
 
 
